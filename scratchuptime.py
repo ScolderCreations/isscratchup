@@ -1,2 +1,2 @@
 def check():
-  pass
+  healthsite = 'https://api.scratch.mit.edu/health'
